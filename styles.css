@@ -1,0 +1,161 @@
+body{
+  margin:0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  }
+
+.top-container {
+  background-color: #54BAB9;
+  /*margin-bottom: 10px;*/
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 150px;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 275px;
+  height: 200px;
+  width: 200px;
+}
+
+.header_img {
+  margin-top: 80px;
+  margin-bottom: 30px;
+}
+
+/*The header in the menu bar - top*/
+h1 {
+  margin-top: 50px auto 0 auto;
+  font-family: 'Roboto', sans-serif;
+  font-size: 90px;
+  color: #F7ECDE;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin: 50px auto 0 auto;
+  color: #11999E;
+  font-weight: normal;
+  padding-bottom: 10px;
+  line-height: 2;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  line-height: 2;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;;
+  width: 20%;
+  border-bottom: none;
+  margin: 100 auto;
+}
+
+.profile-pic {
+  width: 200px;
+  height: 200px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+}
+
+.skill-row2 {
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: right;
+}
+
+.dev-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.web-des-img{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+
+.middle-container {
+  margin: 80px ;
+
+}
+
+.contact-me {
+
+}
+
+.contact-msg {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #d6d6d6;
+  font-size: 20px;
+  background: #18978f;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #a3fff9;
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #54BAB9;
+  padding-bottom: 5px;
+  padding-top: 20px;
+}
+
+.footer-link {
+ margin: auto 15px;
+ font-family: 'Roboto', sans-serif;
+}
+
+a {
+  color: #18978F;
+  font-family: 'Roboto', sans-serif;
+  padding: 30px 10px;
+}
+
+a:hover {
+  color: #F7ECDE;
+}
+
+.copyright {
+  color: #F7ECDE;
+  font-size: 0.75rem;
+  padding: 10px 0px;
+}
